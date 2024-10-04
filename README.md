@@ -1,6 +1,5 @@
 # Mistral-Voice-Chat-GPU
 A simple CMD based UI to have a chat with Mistral Voice Chat with a GPU
-# Mistaral Voice Chat GPU
 
 This project implements a voice chat system using AI language models and text-to-speech capabilities. It supports both Hugging Face and CTransformers models, and can generate audio responses using Microsoft's Edge TTS.
 
@@ -31,8 +30,8 @@ pip install torch transformers edge-tts ctransformers
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/mistaral-voice-chat-gpu.git
-   cd mistaral-voice-chat-gpu
+   git clone https://github.com/ababiya-worku/Mistral-Voice-Chat-GPU.git
+   cd Mistral-voice-chat-gpu
    ```
 
 2. Run the script:
