@@ -51,20 +51,10 @@ pip install torch transformers edge-tts ctransformers
 
 - Hugging Face models (.bin, .tar.gz)
 - CTransformers models (.gguf, .ggml)
+- 
+## https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/tree/main
 
 ## Notes
 
 - The script will attempt to use GPU acceleration if available.
 - Generated audio files are saved in the same directory as the script, with filenames based on your input prompts.
-
-## License
-
-[Include your chosen license here]
-
-## Contributing
-
-[Include guidelines for contributing to your project]
-
-## Contact
-
-[Your contact information or links to your social media profiles]
