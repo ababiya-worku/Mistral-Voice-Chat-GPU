@@ -51,7 +51,8 @@ pip install torch transformers edge-tts ctransformers
 
 - Hugging Face models (.bin, .tar.gz)
 - CTransformers models (.gguf, .ggml)
-- 
+
+## Download this and place it in any folder you want
 ## https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/tree/main
 
 ## Notes
